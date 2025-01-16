@@ -1,11 +1,12 @@
 ## 99클럽 코딩테스트 5기 문제
 
-비기너, 미들러, 챌린저 문제를 모아서 보기 위해 생성한 레포
-
 <p align="center">
     <img src="https://github.com/user-attachments/assets/2ed9d96f-6da7-49e2-b59d-454a4289720b" width="500" height="300" >
 </p>
 
+비기너, 미들러, 챌린저 문제를 모아서 보기 위해 생성한 레포
+
+<br>
 <br>
 
 ### 🍋 Python_Middler
@@ -17,6 +18,8 @@
 🐣 : Middler
 🐥 : Challenger
 ```
+
+<br>
 
 | No. | 날짜 | 레벨 | 문제 | 알고리즘 분류 | TIL |
 |-----|-----|----|-----|-----|----|
