@@ -2,8 +2,9 @@
 
 비기너, 미들러, 챌린저 문제를 모아서 보기 위해 생성한 레포
 
-
-<img src="https://github.com/user-attachments/assets/2ed9d96f-6da7-49e2-b59d-454a4289720b" width="600" height="300">
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/2ed9d96f-6da7-49e2-b59d-454a4289720b" width="600" height="300" >
+</p>
 
 <br>
 
