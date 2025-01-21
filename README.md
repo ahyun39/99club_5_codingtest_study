@@ -47,9 +47,9 @@
 | 6 | 2025.01.20 | 🐣    | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | 그래프 이론, 그래프 탐색, DFS, BFS | [6일차 TIL](https://youngone-kang.tistory.com/22) |
 | 6 | 2025.01.20 | 🐥 | [특정한 최단 경로](https://www.acmicpc.net/problem/1504) | 그래프 이론, 최단 경로, 다익스트라 |  |
 ||
-| 7 | 2025.01.21 | 🥚   | []() |  |  |
-| 7 | 2025.01.21 | 🐣    | []() |  | []() |
-| 7 | 2025.01.21 | 🐥 | []() |  |  |
+| 7 | 2025.01.21 | 🥚   | [Hashing](https://www.acmicpc.net/problem/15829) | 구현, 문자열, 해싱 |  |
+| 7 | 2025.01.21 | 🐣    | [숨바꼭질](https://www.acmicpc.net/problem/1697) | 그래프 이론, 그래프 탐색, BFS | [7일차 TIL](https://youngone-kang.tistory.com/23) |
+| 7 | 2025.01.21 | 🐥 | [주사위 윷놀이](https://www.acmicpc.net/problem/17825) | 구현, 브루트포스, 백트래킹 |  |
 ||
 | 8 | 2025.01.22 | 🥚   | []() |  |  |
 | 8 | 2025.01.22 | 🐣    | []() |  | []() |
