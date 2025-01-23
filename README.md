@@ -55,9 +55,9 @@
 | 8 | 2025.01.22 | 🐣    | [단지번호붙이기](https://www.acmicpc.net/problem/2667) | 그래프 이론, 그래프 탐색, DFS, BFS | [8일차 TIL](https://youngone-kang.tistory.com/24) |
 | 8 | 2025.01.22 | 🐥 | [양과 늑대](https://school.programmers.co.kr/learn/courses/30/lessons/92343) | DFS |  |
 ||
-| 9 | 2025.01.23 | 🥚   | []() |  |  |
-| 9 | 2025.01.23 | 🐣    | []() |  | []() |
-| 9 | 2025.01.23 | 🐥 | []() |  |  |
+| 9 | 2025.01.23 | 🥚   | [전주 듣고 노래 맞히기](https://www.acmicpc.net/problem/31562) | 구현, 자료 구조, 문자열, 브루트포스, 해시 |  |
+| 9 | 2025.01.23 | 🐣    | [이분 그래프](https://www.acmicpc.net/problem/1707) | 그래프 이론, 그래프 탐색, DFS, BFS, 이분 그래프 | [9일차 TIL](https://youngone-kang.tistory.com/25) |
+| 9 | 2025.01.23 | 🐥 | [비슷한 단어](https://www.acmicpc.net/problem/2179) | 자료 구조, 문자열, 정렬, 해시 |  |
 ||
 | 10 | 2025.01.24 | 🥚   | []() |  |  |
 | 10 | 2025.01.24 | 🐣    | []() |  | []() |
