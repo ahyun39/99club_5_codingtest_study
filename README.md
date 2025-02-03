@@ -63,9 +63,9 @@
 | 10 | 2025.01.24 | 🐣    | [빙산](https://www.acmicpc.net/problem/2573) | 구현, 그래프 이론, 그래프 탐색, DFS, BFS | [10일차 TIL](https://youngone-kang.tistory.com/26) |
 | 10 | 2025.01.24 | 🐥 | [한 번 남았다](https://www.acmicpc.net/problem/13317) | 그래프 이론, 해 구성하기, 최단 경로, 벨만-포드 |  |
 ||
-| 11 | 2025.02.03 | 🥚   |  |  |  |
-| 11 | 2025.02.03 | 🐣    |  |  |  |
-| 11 | 2025.02.03 | 🐥 |  |  |  |
+| 11 | 2025.02.03 | 🥚   | [스택](https://www.acmicpc.net/problem/10828) | 구현, 자료 구조, 스택 |  |
+| 11 | 2025.02.03 | 🐣    | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) | 브루트포스 | [11일차 TIL](https://youngone-kang.tistory.com/31) |
+| 11 | 2025.02.03 | 🐥 | [N-Queen](https://www.acmicpc.net/problem/9663) | 브루트포스, 백트래킹 |  |
 ||
 | 12 | 2025.02.04 | 🥚   |  |  |  |
 | 12 | 2025.02.04 | 🐣    |  |  |  |
