@@ -71,9 +71,9 @@
 | 12 | 2025.02.04 | 🐣    | [숫자 정사각형](https://www.acmicpc.net/problem/1051) | 구현, 브루트포스 | [12일차 TIL](https://youngone-kang.tistory.com/32) |
 | 12 | 2025.02.04 | 🐥 | [소용돌이 예쁘게 출력하기](https://www.acmicpc.net/problem/1022) | 수학, 구현 |  |
 ||
-| 13 | 2025.02.05 | 🥚   |  |  |  |
-| 13 | 2025.02.05 | 🐣    |  |  |  |
-| 13 | 2025.02.05 | 🐥 |  |  |  |
+| 13 | 2025.02.05 | 🥚   | [큐](https://www.acmicpc.net/problem/10845) | 자료 구조, 큐 |  |
+| 13 | 2025.02.05 | 🐣    | [부등호](https://www.acmicpc.net/problem/2529) | 브루트포스, 백트래킹 | [13일차 TIL](https://youngone-kang.tistory.com/33) |
+| 13 | 2025.02.05 | 🐥 | [스타 수열](https://school.programmers.co.kr/learn/courses/30/lessons/70130) | 그리디, DP |  |
 ||
 | 14 | 2025.02.06 | 🥚   |  |  |  |
 | 14 | 2025.02.06 | 🐣    |  |  |  |
