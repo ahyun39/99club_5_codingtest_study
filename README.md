@@ -1,18 +1,42 @@
 ## 99클럽 코딩테스트 5기 문제
 
+
 <p align="center">
     <img src="https://github.com/user-attachments/assets/2ed9d96f-6da7-49e2-b59d-454a4289720b" width="500" height="300" >
 </p>
 
-비기너, 미들러, 챌린저 문제를 모아서 보기 위해 생성한 레포
+<br>
+
+## 📌 개요
+
+-  **비기너(Beginner)**, **미들러(Middler)**, **챌린저(Challenger)** 문제를 모아서 연습하기 위한 레포지토리입니다.  
+
+- 개인적인 성장과 코딩 테스트 대비를 위해 정리한 문제 풀이 기록입니다.  
 
 <br>
 <br>
 
-### 🍋 Python_Middler
+## 💻 개발 환경
+- **언어**: Python  
+- **도구**: VS Code, Google Colaboratory
+- **버전 관리**: Git, GitHub
 
 <br>
+<br>
 
+## 💪🏻 스터디 목표
+
+```
+✔️   매일 문제 풀이 (🍋 Python_Middler)
+✔️   알고리즘별 문제 풀이 정리  
+✔️   TIL(Today I Learned) 작성
+✔️   다양한 접근법 및 코드 최적화 실습
+```
+
+<br>
+<br>
+
+## 💡 문제 난이도
 ```
 🥚 : Beginner
 🐣 : Middler
@@ -20,6 +44,9 @@
 ```
 
 <br>
+<br>
+
+## 🗂️ 문제 목록
 
 | No. | 날짜 | 레벨 | 문제 | 알고리즘 분류 | TIL |
 |-----:|-----|----|-----|-----|----|
@@ -112,4 +139,7 @@
 <br>
 <br>
 
-[항해99 99클럽 코딩테스트 신청 사이트](https://hanghae99.spartacodingclub.kr/99club-codingtest)
+## 🔗 참고 사이트  
+✅ [항해99 99클럽 코딩테스트 신청 사이트](https://hanghae99.spartacodingclub.kr/99club-codingtest)  
+✅ [백준](https://www.acmicpc.net/)  
+✅ [프로그래머스](https://school.programmers.co.kr/)  
