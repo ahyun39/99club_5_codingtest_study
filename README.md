@@ -110,9 +110,9 @@
 | 15 | 2025.02.07 | 🐣    | [치킨 배달](https://www.acmicpc.net/problem/15686) | 구현, 브루트포스, 백트래킹 | [15일차 TIL](https://youngone-kang.tistory.com/35) |
 | 15 | 2025.02.07 | 🐥 | [등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669) | 다익스트라 |  |
 ||
-| 16 | 2025.02.08 | 🥚   |  |  |  |
-| 16 | 2025.02.08 | 🐣    |  |  |  |
-| 16 | 2025.02.08 | 🐥 |  |  |  |
+| 16 | 2025.02.08 | 🥚   | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | 힙 |  |
+| 16 | 2025.02.08 | 🐣    | [고양이는 많을수록 좋다](https://www.acmicpc.net/problem/27961) | 수학, 그리디 | [16일차 TIL](https://youngone-kang.tistory.com/54) |
+| 16 | 2025.02.08 | 🐥 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 히스토그램, 스택, DP |  |
 ||
 | 17 | 2025.02.09 | 🥚   |  |  |  |
 | 17 | 2025.02.09 | 🐣    |  |  |  |
