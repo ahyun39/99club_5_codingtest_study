@@ -114,13 +114,13 @@
 | 16 | 2025.02.08 | 🐣    | [고양이는 많을수록 좋다](https://www.acmicpc.net/problem/27961) | 수학, 그리디 | [16일차 TIL](https://youngone-kang.tistory.com/54) |
 | 16 | 2025.02.08 | 🐥 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 히스토그램, 스택, DP |  |
 ||
-| 17 | 2025.02.09 | 🥚   |  |  |  |
-| 17 | 2025.02.09 | 🐣    |  |  |  |
-| 17 | 2025.02.09 | 🐥 |  |  |  |
+| 17 | 2025.02.09 | 🥚   | [Relative Ranks](https://leetcode.com/problems/relative-ranks/description/) | 배열, 정렬, 우선순위 큐 |  |
+| 17 | 2025.02.09 | 🐣    | [ATM](https://www.acmicpc.net/problem/11399) | 그리디, 정렬 | [17일차 TIL](https://youngone-kang.tistory.com/61) |
+| 17 | 2025.02.09 | 🐥 | [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | 완전 탐색 |  |
 ||
-| 18 | 2025.02.10 | 🥚   |  |  |  |
-| 18 | 2025.02.10 | 🐣    |  |  |  |
-| 18 | 2025.02.10 | 🐥 |  |  |  |
+| 18 | 2025.02.10 | 🥚   | [크리스마스 선물](https://www.acmicpc.net/problem/14235) | 자료 구조, 우선순위 큐 |  |
+| 18 | 2025.02.10 | 🐣    | [맥주 축제](https://www.acmicpc.net/problem/17503) | 자료 구조, 그리디, 정렬, 이분 탐색, 우선순위 큐 | [18일차 TIL](https://youngone-kang.tistory.com/66) |
+| 18 | 2025.02.10 | 🐥 | [로봇 조종하기](https://www.acmicpc.net/problem/2169) | DP |  |
 ||
 | 19 | 2025.02.11 | 🥚   |  |  |  |
 | 19 | 2025.02.11 | 🐣    |  |  |  |
