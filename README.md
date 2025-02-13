@@ -122,9 +122,9 @@
 | 18 | 2025.02.10 | 🐣    | [맥주 축제](https://www.acmicpc.net/problem/17503) | 자료 구조, 그리디, 정렬, 이분 탐색, 우선순위 큐 | [18일차 TIL](https://youngone-kang.tistory.com/66) |
 | 18 | 2025.02.10 | 🐥 | [로봇 조종하기](https://www.acmicpc.net/problem/2169) | DP |  |
 ||
-| 19 | 2025.02.11 | 🥚   |  |  |  |
-| 19 | 2025.02.11 | 🐣    |  |  |  |
-| 19 | 2025.02.11 | 🐥 |  |  |  |
+| 19 | 2025.02.11 | 🥚   | [절댓값 힙](https://www.acmicpc.net/problem/11286) | 자료 구조, 우선순위 큐 |  |
+| 19 | 2025.02.11 | 🐣    | [신입 사원](https://www.acmicpc.net/problem/1946) | 그리디, 정렬 | [19일차 TIL](https://youngone-kang.tistory.com/71) |
+| 19 | 2025.02.11 | 🐥 | [회전초밥](https://www.acmicpc.net/problem/28107) | 자료 구조, 우선순위 큐, 큐 |  |
 ||
 | 20 | 2025.02.12 | 🥚   |  |  |  |
 | 20 | 2025.02.12 | 🐣    |  |  |  |
