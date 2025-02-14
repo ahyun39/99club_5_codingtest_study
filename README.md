@@ -110,26 +110,45 @@
 | 15 | 2025.02.07 | 🐣    | [치킨 배달](https://www.acmicpc.net/problem/15686) | 구현, 브루트포스, 백트래킹 | [15일차 TIL](https://youngone-kang.tistory.com/35) |
 | 15 | 2025.02.07 | 🐥 | [등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669) | 다익스트라 |  |
 ||
-| 16 | 2025.02.08 | 🥚   | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | 힙 |  |
-| 16 | 2025.02.08 | 🐣    | [고양이는 많을수록 좋다](https://www.acmicpc.net/problem/27961) | 수학, 그리디 | [16일차 TIL](https://youngone-kang.tistory.com/54) |
-| 16 | 2025.02.08 | 🐥 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 히스토그램, 스택, DP |  |
+| 16 | 2025.02.10 | 🥚   | [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626) | 힙 |  |
+| 16 | 2025.02.10 | 🐣    | [고양이는 많을수록 좋다](https://www.acmicpc.net/problem/27961) | 수학, 그리디 | [16일차 TIL](https://youngone-kang.tistory.com/54) |
+| 16 | 2025.02.10 | 🐥 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 히스토그램, 스택, DP |  |
 ||
-| 17 | 2025.02.09 | 🥚   | [Relative Ranks](https://leetcode.com/problems/relative-ranks/description/) | 배열, 정렬, 우선순위 큐 |  |
-| 17 | 2025.02.09 | 🐣    | [ATM](https://www.acmicpc.net/problem/11399) | 그리디, 정렬 | [17일차 TIL](https://youngone-kang.tistory.com/61) |
-| 17 | 2025.02.09 | 🐥 | [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | 완전 탐색 |  |
+| 17 | 2025.02.11 | 🥚   | [Relative Ranks](https://leetcode.com/problems/relative-ranks/description/) | 배열, 정렬, 우선순위 큐 |  |
+| 17 | 2025.02.11 | 🐣    | [ATM](https://www.acmicpc.net/problem/11399) | 그리디, 정렬 | [17일차 TIL](https://youngone-kang.tistory.com/61) |
+| 17 | 2025.02.11 | 🐥 | [불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064) | 완전 탐색 |  |
 ||
-| 18 | 2025.02.10 | 🥚   | [크리스마스 선물](https://www.acmicpc.net/problem/14235) | 자료 구조, 우선순위 큐 |  |
-| 18 | 2025.02.10 | 🐣    | [맥주 축제](https://www.acmicpc.net/problem/17503) | 자료 구조, 그리디, 정렬, 이분 탐색, 우선순위 큐 | [18일차 TIL](https://youngone-kang.tistory.com/66) |
-| 18 | 2025.02.10 | 🐥 | [로봇 조종하기](https://www.acmicpc.net/problem/2169) | DP |  |
+| 18 | 2025.02.12 | 🥚   | [크리스마스 선물](https://www.acmicpc.net/problem/14235) | 자료 구조, 우선순위 큐 |  |
+| 18 | 2025.02.12 | 🐣    | [맥주 축제](https://www.acmicpc.net/problem/17503) | 자료 구조, 그리디, 정렬, 이분 탐색, 우선순위 큐 | [18일차 TIL](https://youngone-kang.tistory.com/66) |
+| 18 | 2025.02.12 | 🐥 | [로봇 조종하기](https://www.acmicpc.net/problem/2169) | DP |  |
 ||
-| 19 | 2025.02.11 | 🥚   | [절댓값 힙](https://www.acmicpc.net/problem/11286) | 자료 구조, 우선순위 큐 |  |
-| 19 | 2025.02.11 | 🐣    | [신입 사원](https://www.acmicpc.net/problem/1946) | 그리디, 정렬 | [19일차 TIL](https://youngone-kang.tistory.com/71) |
-| 19 | 2025.02.11 | 🐥 | [회전초밥](https://www.acmicpc.net/problem/28107) | 자료 구조, 우선순위 큐, 큐 |  |
+| 19 | 2025.02.13 | 🥚   | [절댓값 힙](https://www.acmicpc.net/problem/11286) | 자료 구조, 우선순위 큐 |  |
+| 19 | 2025.02.13 | 🐣    | [신입 사원](https://www.acmicpc.net/problem/1946) | 그리디, 정렬 | [19일차 TIL](https://youngone-kang.tistory.com/71) |
+| 19 | 2025.02.13 | 🐥 | [무지의 먹방 라이브](https://school.programmers.co.kr/learn/courses/30/lessons/42891) | 그리디, 우선순위 큐 |  |
 ||
-| 20 | 2025.02.12 | 🥚   |  |  |  |
-| 20 | 2025.02.12 | 🐣    |  |  |  |
-| 20 | 2025.02.12 | 🐥 |  |  |  |
+| 20 | 2025.02.14 | 🥚   | [회전초밥](https://www.acmicpc.net/problem/28107) | 자료 구조, 우선순위 큐, 큐 |  |
+| 20 | 2025.02.14 | 🐣    | [최소 회의실 개수](https://www.acmicpc.net/problem/19598) | 자료 구조, 그리디, 정렬, 스위핑, 우선순위 큐 | [20일차 TIL](https://youngone-kang.tistory.com/72) |
+| 20 | 2025.02.14 | 🐥 | [거울 설치](https://www.acmicpc.net/problem/2151) | 그래프 이론, 그래프 탐색, BFS, 최단 경로, 다익스트라 |  |
 ||
+| 21 | 2025.02.17 | 🥚   |  |  |  |
+| 21 | 2025.02.17 | 🐣    |  |  |  |
+| 21 | 2025.02.17 | 🐥 |  |  |  |
+||
+| 22 | 2025.02.18 | 🥚   |  |  |  |
+| 22 | 2025.02.18 | 🐣    |  |  |  |
+| 22 | 2025.02.18 | 🐥 |  |  |  |
+||
+| 23 | 2025.02.19 | 🥚   |  |  |  |
+| 23 | 2025.02.19 | 🐣    |  |  |  |
+| 23 | 2025.02.19 | 🐥 |  |  |  |
+||
+| 24 | 2025.02.20 | 🥚   |  |  |  |
+| 24 | 2025.02.20 | 🐣    |  |  |  |
+| 24 | 2025.02.20 | 🐥 |  |  |  |
+||
+| 25 | 2025.02.21 | 🥚   |  |  |  |
+| 25 | 2025.02.21 | 🐣    |  |  |  |
+| 25 | 2025.02.21 | 🐥 |  |  |  |
 
 
 <br>
