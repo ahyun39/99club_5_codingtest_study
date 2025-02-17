@@ -130,9 +130,9 @@
 | 20 | 2025.02.14 | 🐣    | [최소 회의실 개수](https://www.acmicpc.net/problem/19598) | 자료 구조, 그리디, 정렬, 스위핑, 우선순위 큐 | [20일차 TIL](https://youngone-kang.tistory.com/72) |
 | 20 | 2025.02.14 | 🐥 | [거울 설치](https://www.acmicpc.net/problem/2151) | 그래프 이론, 그래프 탐색, BFS, 최단 경로, 다익스트라 |  |
 ||
-| 21 | 2025.02.17 | 🥚   |  |  |  |
-| 21 | 2025.02.17 | 🐣    |  |  |  |
-| 21 | 2025.02.17 | 🐥 |  |  |  |
+| 21 | 2025.02.17 | 🥚   | [파일 정리](https://www.acmicpc.net/problem/20291) | 자료 구조, 문자열, 정렬, 해시, 트리, 파싱 |  |
+| 21 | 2025.02.17 | 🐣    | [피보나치 함수](https://www.acmicpc.net/problem/1003) | DP | [21일차 TIL](https://youngone-kang.tistory.com/73) |
+| 21 | 2025.02.17 | 🐥 | [파괴되지 않은 건물](https://school.programmers.co.kr/learn/courses/30/lessons/92344) | 누적합 |  |
 ||
 | 22 | 2025.02.18 | 🥚   |  |  |  |
 | 22 | 2025.02.18 | 🐣    |  |  |  |
