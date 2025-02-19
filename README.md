@@ -138,9 +138,9 @@
 | 22 | 2025.02.18 | 🐣    | [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) | DP | [22일차 TIL](https://youngone-kang.tistory.com/75) |
 | 22 | 2025.02.18 | 🐥 | [플로이드](https://www.acmicpc.net/problem/11404) | 그래프 이론, 최단 경로, 플로이드-워셜 |  |
 ||
-| 23 | 2025.02.19 | 🥚   |  |  |  |
-| 23 | 2025.02.19 | 🐣    |  |  |  |
-| 23 | 2025.02.19 | 🐥 |  |  |  |
+| 23 | 2025.02.19 | 🥚   | [세준세비](https://www.acmicpc.net/problem/1524) | 구현, 정렬 |  |
+| 23 | 2025.02.19 | 🐣    | [LCS](https://www.acmicpc.net/problem/9251) | DP, 문자열 | [23일차 TIL](https://youngone-kang.tistory.com/76) |
+| 23 | 2025.02.19 | 🐥 | [회문](https://www.acmicpc.net/problem/17609) | 문자열, 투 포인터 |  |
 ||
 | 24 | 2025.02.20 | 🥚   |  |  |  |
 | 24 | 2025.02.20 | 🐣    |  |  |  |
