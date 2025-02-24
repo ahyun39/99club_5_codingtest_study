@@ -146,9 +146,9 @@
 | 24 | 2025.02.20 | 🐣    | [합분해](https://www.acmicpc.net/problem/2225) | 수학, DP | [24일차 TIL](https://youngone-kang.tistory.com/78) |
 | 24 | 2025.02.20 | 🐥 | [택배](https://www.acmicpc.net/problem/1719) | 그래프 이론, 최단 경로, 다익스트라, 플로이드-워셜 |  |
 ||
-| 25 | 2025.02.21 | 🥚   |  |  |  |
-| 25 | 2025.02.21 | 🐣    |  |  |  |
-| 25 | 2025.02.21 | 🐥 |  |  |  |
+| 25 | 2025.02.21 | 🥚   | [열심히 일하는 중](https://www.acmicpc.net/problem/31860) | 구현, 자료 구조, 시뮬레이션, 우선순위 큐 |  |
+| 25 | 2025.02.21 | 🐣    | [무한 수열](https://www.acmicpc.net/problem/1351) | DP, 자료 구조, 해시 | [25일차 TIL](https://youngone-kang.tistory.com/79) |
+| 25 | 2025.02.21 | 🐥 | [합승 택시 요금](https://school.programmers.co.kr/learn/courses/30/lessons/72413) | 다익스트라, 플로이드-워셜 |  |
 
 
 <br>
