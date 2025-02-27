@@ -52,7 +52,7 @@
 |-----:|-----|----|-----|-----|----|
 | 1 | 2025.01.13 | 🥚&nbsp;&nbsp;&nbsp;| [문자열 내 p와 y의 개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916) | 문자열 | [TIL](https://youngone-kang.tistory.com/82) |
 | 1 | 2025.01.13 | 🐣    | [암기왕](https://www.acmicpc.net/problem/2776) | 자료 구조, 정렬, 이분 탐색, 해시 | [1일차 TIL](https://youngone-kang.tistory.com/17) |
-| 1 | 2025.01.13 | 🐥 | [타임머신](https://www.acmicpc.net/problem/11657) | 그래프 이론, 최단 경로, 벨만-포드 |  |
+| 1 | 2025.01.13 | 🐥 | [타임머신](https://www.acmicpc.net/problem/11657) | 그래프 이론, 최단 경로, 벨만-포드 | [TIL](https://youngone-kang.tistory.com/83) |
 ||
 | 2 | 2025.01.14 | 🥚   | [그대로 출력하기](https://www.acmicpc.net/problem/11719) | 구현, 문자열 |  |
 | 2 | 2025.01.14 | 🐣    | [랜선 자르기](https://www.acmicpc.net/problem/1654) | 이분 탐색, 매개 변수 탐색 | [2일차 TIL](https://youngone-kang.tistory.com/18) |
