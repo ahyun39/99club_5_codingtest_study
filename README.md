@@ -58,7 +58,7 @@
 | 2 | 2025.01.14 | 🐣    | [랜선 자르기](https://www.acmicpc.net/problem/1654) | 이분 탐색, 매개 변수 탐색 | [2일차 TIL](https://youngone-kang.tistory.com/18) |
 | 2 | 2025.01.14 | 🐥 | [가사 검색](https://school.programmers.co.kr/learn/courses/30/lessons/60060) | 문자열, 이분 탐색, 트라이 자료구조 | [TIL](https://youngone-kang.tistory.com/85) |
 ||
-| 3 | 2025.01.15 | 🥚   | [문자열 반복](https://www.acmicpc.net/problem/2675) | 구현, 문자열 |  |
+| 3 | 2025.01.15 | 🥚   | [문자열 반복](https://www.acmicpc.net/problem/2675) | 구현, 문자열 | [TIL](https://youngone-kang.tistory.com/86) |
 | 3 | 2025.01.15 | 🐣    | [선분 위의 점](https://www.acmicpc.net/problem/11663) | 정렬, 이분 탐색 | [3일차 TIL](https://youngone-kang.tistory.com/19) |
 | 3 | 2025.01.15 | 🐥 | [네트워크 복구](https://www.acmicpc.net/problem/2211) | 그래프 이론, 최단 경로, 다익스트라 |  |
 ||
