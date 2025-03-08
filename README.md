@@ -62,7 +62,7 @@
 | 3 | 2025.01.15 | 🐣    | [선분 위의 점](https://www.acmicpc.net/problem/11663) | 정렬, 이분 탐색 | [3일차 TIL](https://youngone-kang.tistory.com/19) |
 | 3 | 2025.01.15 | 🐥 | [네트워크 복구](https://www.acmicpc.net/problem/2211) | 그래프 이론, 최단 경로, 다익스트라 |  |
 ||
-| 4 | 2025.01.16 | 🥚   | [뜨거운 붕어빵](https://www.acmicpc.net/problem/11945) | 구현, 문자열 |  |
+| 4 | 2025.01.16 | 🥚   | [뜨거운 붕어빵](https://www.acmicpc.net/problem/11945) | 구현, 문자열 | [TIL](https://youngone-kang.tistory.com/87) |
 | 4 | 2025.01.16 | 🐣    | [기타 레슨](https://www.acmicpc.net/problem/2343) | 이분 탐색, 매개 변수 탐색 | [4일차 TIL](https://youngone-kang.tistory.com/20) |
 | 4 | 2025.01.16 | 🐥 | [좋다](https://www.acmicpc.net/problem/1253) | 자료 구조, 정렬, 이분 탐색, 두 포인터 |  |
 ||
