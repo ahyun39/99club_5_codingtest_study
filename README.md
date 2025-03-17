@@ -64,7 +64,7 @@
 ||
 | 4 | 2025.01.16 | 🥚   | [뜨거운 붕어빵](https://www.acmicpc.net/problem/11945) | 구현, 문자열 | [TIL](https://youngone-kang.tistory.com/87) |
 | 4 | 2025.01.16 | 🐣    | [기타 레슨](https://www.acmicpc.net/problem/2343) | 이분 탐색, 매개 변수 탐색 | [4일차 TIL](https://youngone-kang.tistory.com/20) |
-| 4 | 2025.01.16 | 🐥 | [좋다](https://www.acmicpc.net/problem/1253) | 자료 구조, 정렬, 이분 탐색, 두 포인터 |  |
+| 4 | 2025.01.16 | 🐥 | [좋다](https://www.acmicpc.net/problem/1253) | 자료 구조, 정렬, 이분 탐색, 두 포인터 | Done |
 ||
 | 5 | 2025.01.17 | 🥚   | [세로읽기](https://www.acmicpc.net/problem/10798) | 구현, 문자열 |  |
 | 5 | 2025.01.17 | 🐣    | [두 용액](https://www.acmicpc.net/problem/2470) | 정렬, 이분 탐색, 투 포인터 | [5일차 TIL](https://youngone-kang.tistory.com/21) |
