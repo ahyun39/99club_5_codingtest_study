@@ -140,7 +140,7 @@
 ||
 | 23 | 2025.02.19 | 🥚   | [세준세비](https://www.acmicpc.net/problem/1524) | 구현, 정렬 |  |
 | 23 | 2025.02.19 | 🐣    | [LCS](https://www.acmicpc.net/problem/9251) | DP, 문자열 | [23일차 TIL](https://youngone-kang.tistory.com/76) |
-| 23 | 2025.02.19 | 🐥 | [회문](https://www.acmicpc.net/problem/17609) | 문자열, 투 포인터 |  |
+| 23 | 2025.02.19 | 🐥 | [회문](https://www.acmicpc.net/problem/17609) | 문자열, 투 포인터 | Done |
 ||
 | 24 | 2025.02.20 | 🥚   | [개미](https://www.acmicpc.net/problem/3048) | 구현, 문자열, 시뮬레이션 |  |
 | 24 | 2025.02.20 | 🐣    | [합분해](https://www.acmicpc.net/problem/2225) | 수학, DP | [24일차 TIL](https://youngone-kang.tistory.com/78) |
