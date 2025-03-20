@@ -68,7 +68,7 @@
 ||
 | 5 | 2025.01.17 | 🥚   | [세로읽기](https://www.acmicpc.net/problem/10798) | 구현, 문자열 |  |
 | 5 | 2025.01.17 | 🐣    | [두 용액](https://www.acmicpc.net/problem/2470) | 정렬, 이분 탐색, 투 포인터 | [5일차 TIL](https://youngone-kang.tistory.com/21) |
-| 5 | 2025.01.17 | 🐥 | [연예인은 힘들어](https://www.acmicpc.net/problem/17270) | 그래프 이론, 최단 경로, 다익스트라, 플로이드-워셜 |  |
+| 5 | 2025.01.17 | 🐥 | [연예인은 힘들어](https://www.acmicpc.net/problem/17270) | 그래프 이론, 최단 경로, 다익스트라, 플로이드-워셜 | Done |
 ||
 | 6 | 2025.01.20 | 🥚   | [할리갈리](https://www.acmicpc.net/problem/27160) | 구현, 자료 구조, 문자열, 해시 |  |
 | 6 | 2025.01.20 | 🐣    | [DFS와 BFS](https://www.acmicpc.net/problem/1260) | 그래프 이론, 그래프 탐색, DFS, BFS | [6일차 TIL](https://youngone-kang.tistory.com/22) |
@@ -100,7 +100,7 @@
 ||
 | 13 | 2025.02.05 | 🥚   | [큐](https://www.acmicpc.net/problem/10845) | 자료 구조, 큐 |  |
 | 13 | 2025.02.05 | 🐣    | [부등호](https://www.acmicpc.net/problem/2529) | 브루트포스, 백트래킹 | [13일차 TIL](https://youngone-kang.tistory.com/33) |
-| 13 | 2025.02.05 | 🐥 | [스타 수열](https://school.programmers.co.kr/learn/courses/30/lessons/70130) | 그리디, DP |  |
+| 13 | 2025.02.05 | 🐥 | [스타 수열](https://school.programmers.co.kr/learn/courses/30/lessons/70130) | 그리디, DP | Done |
 ||
 | 14 | 2025.02.06 | 🥚   | [식당 메뉴](https://www.acmicpc.net/problem/26043) | 자료 구조, 정렬, 큐 |  |
 | 14 | 2025.02.06 | 🐣    | [오목](https://www.acmicpc.net/problem/2615) | 구현, 브루트포스 | [14일차 TIL](https://youngone-kang.tistory.com/34) |
